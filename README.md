@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravishankar-shetgar
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning express.js
+- 👀 I’m interested in front-end / React Native development
+- 🌱 I’m currently playing around with React Native
 
 <!---
 ravishankar-shetgar/ravishankar-shetgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
